@@ -1,0 +1,4 @@
+Line 1: 101011
+Second line: 000111
+Short: 1
+A bit longer line with numbers 1100

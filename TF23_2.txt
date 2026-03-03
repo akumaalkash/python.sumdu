@@ -1,0 +1,6 @@
+Line 0: 010100S
+econd line: 111
+000Short: 0A bi
+t longer line w
+ith numbers 001
+1
